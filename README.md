@@ -3,7 +3,7 @@
 A Program which attends your zoom meetings for you.
 
 Written in Python.
-Modules used are Selenium, Schedule, Datetime and keyboard.
+Selenium, Schedule, Datetime and keyboard are the only modules used in this program.
 This is Version 1.0 of the program.
 
 This Program is solely created for educational purposes.
